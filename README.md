@@ -1,4 +1,4 @@
-## hii!!!! This is me👋
+## hii!!!! This is shahina👋
 <div align="center">
   <img height="150" src="https://static.vecteezy.com/system/resources/thumbnails/049/685/810/small/woman-staring-intently-at-computer-code-photo.jpg"  />
 </div>
@@ -24,9 +24,7 @@
 
 <p align="left">IHi, I'm me. I’m passionate about software development and enjoy learning new technologies and improving my problem-solving skills. I like building applications, exploring different areas of programming, and continuously growing as a developer. I’m always curious to learn, experiment, and create things that can make an impact through technology.</p>
 
-###
-
-## 👩‍💻 me
+##
 
 🚀 Aspiring Software Engineer  
 💻 Practicing DSA, SQL, and Full-Stack Development  
