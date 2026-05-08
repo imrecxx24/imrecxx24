@@ -69,12 +69,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imrecxx24&show_icons=true&theme=tokyonight)
-###
 <h3 align="left">🔥   My Leetcode stats :</h3>
 
 ## 👩‍💻 me
