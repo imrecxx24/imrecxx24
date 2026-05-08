@@ -1,4 +1,4 @@
-## hii!!!! This is shahina👋
+## hii!!!! This is 👋
 <div align="center">
   <img height="150" src="https://static.vecteezy.com/system/resources/thumbnails/049/685/810/small/woman-staring-intently-at-computer-code-photo.jpg"  />
 </div>
