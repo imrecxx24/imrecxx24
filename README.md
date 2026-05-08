@@ -26,6 +26,10 @@
 
 ###
 
+## 👩‍💻 me
+
+🚀 Aspiring Software Engineer  
+💻 Practicing DSA, SQL, and Full-Stack Development  
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -71,10 +75,6 @@
 ###
 <h3 align="left">🔥   My Leetcode stats :</h3>
 
-## 👩‍💻 me
-
-🚀 Aspiring Software Engineer  
-💻 Practicing DSA, SQL, and Full-Stack Development  
 
 ### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/imrecxx?theme=dark&font=Karma)
